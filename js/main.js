@@ -45,9 +45,7 @@ var bound;
 
 var histogramBins = [0, 0, 0, 0, 0] 
 
-$('.dropdown').click(function(){
-  $('.dropdown-menu').toggleClass('show');
-});
+
 
 
 var ElectricStyle = function(feature) {
